@@ -13,7 +13,7 @@ function setup(){
     engine = Engine.create();
     world = engine.world;
 
-    plane = new Plane(600,height,1200,20);
+    plane = new Plane(600,height,1350,20);
     hammer = new Hammer(10,100);
     rubber= new Rubber(400,450,70);
     iron = new Iron(300,350);
