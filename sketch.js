@@ -9,7 +9,7 @@ var stone;
 var iron;
 var sand1,sand2,sand3,sand4,sand5,sand6,sand7,sand8,sand9,sand10;
 function setup(){
-    var canvas = createCanvas(1200,600);
+    var canvas = createCanvas(1350,600);
     engine = Engine.create();
     world = engine.world;
 
